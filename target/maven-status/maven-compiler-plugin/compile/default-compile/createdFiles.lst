@@ -1,0 +1,14 @@
+ru\gb\java\spring\repositories\ProductRepository.class
+ru\gb\java\spring\repositories\OrderRepository.class
+ru\gb\java\spring\FirstWebApplicationInitializer.class
+ru\gb\java\spring\controller\OrderController.class
+ru\gb\java\spring\utill\RandomOrdersGenerator.class
+ru\gb\java\spring\SpringMainApplication.class
+ru\gb\java\spring\services\Cart.class
+ru\gb\java\spring\controller\ProductController.class
+ru\gb\java\spring\WebMvcApplicationConfig.class
+ru\gb\java\spring\cfgs\ContextConfiguration.class
+ru\gb\java\spring\RootWebApplicationConfig.class
+ru\gb\java\spring\entities\Product.class
+ru\gb\java\spring\utill\RandomProductsGenerator.class
+ru\gb\java\spring\entities\Order.class

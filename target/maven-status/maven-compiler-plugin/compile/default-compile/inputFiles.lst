@@ -1,0 +1,14 @@
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\FirstWebApplicationInitializer.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\RootWebApplicationConfig.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\utill\RandomOrdersGenerator.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\services\Cart.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\repositories\OrderRepository.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\SpringMainApplication.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\cfgs\ContextConfiguration.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\controller\OrderController.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\controller\ProductController.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\utill\RandomProductsGenerator.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\WebMvcApplicationConfig.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\entities\Order.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\entities\Product.java
+C:\Users\klima_000\Desktop\gb-spring-intro\src\main\java\ru\gb\java\spring\repositories\ProductRepository.java

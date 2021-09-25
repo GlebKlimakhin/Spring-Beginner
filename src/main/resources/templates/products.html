@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>Products</h1>
+    <ul>
+      <li th:each="product : ${products}">
+          <div>${product.getId())}</div>
+          <div>${product.getTitle()}</div>
+          <div>${product.getPrice()}</div>
+      </li>
+    </ul>
+</body>
+</html>
